@@ -8,9 +8,9 @@ clrscr();
 cout<<"ENTER ROLL NO ";
 cin>>a;
 if (a==1)
-cout<<"NAME= ABHISHEK"<<endl<<"STS NO= 132476567869";
+cout<<"NAME= BUTGJF"<<endl<<"STS NO= 132476567869";
 else if (a==2)
-cout<<"NAME= ANIRUDH"<<endl<<"STS NO= 987654321";
+cout<<"NAME= DFIGJBJKG"<<endl<<"STS NO= 987654321";
 else if (a==3)
 cout<<"NAME= QWERTY"<<endl<<"STS NO= 1345689796";
 else if (a==4)

@@ -25,6 +25,12 @@ else if (a==8)
   cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 8245543246";
 else if (a==9)
   cout<<"NAME= 8939826585"<<endl<<"STS NO= 0943286859";
+  else if (a==10)
+    cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 8245543235";
+  else if (a==11)
+    cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 8245534226";
+  else if (a==12)
+    cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 8245531346";
 else
 cout<<"STUDENT NOT FOUND ";
 getch();

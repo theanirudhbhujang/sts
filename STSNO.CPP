@@ -57,6 +57,16 @@ else if (a==9)
     cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 82454781346";
   else if (a==25)
     cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 82425831346";
+  else if (a==26)
+    cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 82455374546";
+  else if (a==27)
+    cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 82258531346";
+  else if (a==28)
+    cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 824515289346";
+  else if (a==29)
+    cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 82452365346";
+  else if (a==30)
+    cout<<"NAME= VBGSYFEKI"<<endl<<"STS NO= 824515281346";
 else
 cout<<"STUDENT NOT FOUND ";
 getch();
